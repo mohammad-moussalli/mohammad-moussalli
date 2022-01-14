@@ -1,19 +1,30 @@
 body {
-    background-color: #e3e3e3;
+    background-color: #e4e4e4;
 }
 
 .title{
-    color:#c60021; 
+    color:#c99191; 
 }
 
-.upper{
+h1{
+    text-transform: uppercase;
+}
+
+h2{
     text-transform: uppercase;
 }
 
 hr{
-    border-color:#c60021;
+    border-color:#c99191; 
+    ;
+    border-style: dashed;
+
 }
 
 section{
     padding:2%;
+}
+
+a{
+    color:#c99191
 }
