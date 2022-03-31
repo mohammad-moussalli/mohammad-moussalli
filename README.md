@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohammad Moussalli 👋
 
-## I'm a Past Civil Engineer, a Future Software Developer and a Long Life Learner!
+## A Past Civil Engineer, a Future Software Developer and a Long Life Learner!
 
 ### Connect with me:
 
