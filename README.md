@@ -1,16 +1,22 @@
+### Hi there, I'm Mohammad Moussalli 👋
 
+## I'm a Past Civil Engineer, a Future Software Developer and a Long Life Learner!
 
-<!--
-**mohammad-moussalli/mohammad-moussalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
 
-Here are some ideas to get you started:
+[<img align="left" alt="Mohammad-Moussalli | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+[linkedin]: https://www.linkedin.com/in/mohamadmoussalli/
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-moussalli)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-moussalli)](https://github.com/anuraghazra/github-readme-stats)
+
+---
