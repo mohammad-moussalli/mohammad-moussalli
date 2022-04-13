@@ -1,10 +1,10 @@
-# Hi there, I'm Mohammad Moussalli
+<h1>Hi there, I'm Mohammad Moussalli</h1>
 
-## A Past Civil Engineer, a Future Software Developer and a Long Life Learner!
+<h2>A Past Civil Engineer, a Future Software Developer and a Long Life Learner!</h2>
 
 ---
 
-## Tech Stack
+<h2>Tech Stack</h2>
 
 ---
 
@@ -16,11 +16,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<h4>Databases</h4> 
+<h3>Databases</h3> 
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h4>Frameworks and Libraries</h4>
+<h3>Frameworks and Libraries</h3>
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -30,25 +30,25 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<h4>Hosting/SaaS</h4>
+<h3>Hosting/SaaS</h3>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<h4>Version Control</h4>
+<h3>Version Control</h3>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## Connect with me:
+<h2>Connect with me:</h2>
 
  <a href="mailto:mohammadmoussalli@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
   <a href="https://lb.linkedin.com/in/mohamadmoussalli" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
 ---
 
-## My GitHub Stats 
+<h2>My GitHub Stats</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-moussalli)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
