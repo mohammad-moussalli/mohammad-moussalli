@@ -37,11 +37,10 @@
 ### Connect with me:
 
 [<img align="left" alt="Mohammad-Moussalli | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<a href="mailto:mohammadmoussalli@gmail.com" target="_blank"><img align="left" alt="Mohammad-Moussalli | Gmail" width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/></a>]
 
 <br/>
 <br/>
-
-<a href="https://www.linkedin.com/in/mohamadmoussalli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:mohammadmoussalli@gmail.com" target="_blank"><img src = "https://img.shields.io/badge/email-8B89CC?&style=flat-square&logo=protonmail&logoColor=white" alt="Email"></a>
 
 ---
 
