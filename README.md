@@ -1,6 +1,8 @@
-### Hi there, I'm Mohammad Moussalli 👋
+# Hi there, I'm Mohammad Moussalli 👋
 
 ## A Past Civil Engineer, a Future Software Developer and a Long Life Learner!
+
+### Tech Stack
 
 <h4>Languages</h4>
 
@@ -9,7 +11,6 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 
 <h4>Databases</h4> 
 
@@ -39,10 +40,9 @@
  <a href="mailto:mohammadmoussalli@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
   <a href="https://lb.linkedin.com/in/mohamadmoussalli" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 
-
 ---
 
-My GitHub Stats 
+### My GitHub Stats 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-moussalli)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
