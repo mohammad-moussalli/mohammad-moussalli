@@ -36,8 +36,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Mohammad-Moussalli | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-<a href="mailto:mohammadmoussalli@gmail.com" target="_blank">[<img align="left" alt="Mohammad-Moussalli | Gmail" width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/>]</a>
+ <a href="mailto:mohammadmoussalli@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
+  <a href="https://lb.linkedin.com/in/mohamadmoussalli" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  
 
 <br/>
 <br/>
@@ -47,9 +48,6 @@
 📈 My GitHub Stats  <p  align="left"><img src="https://komarev.com/ghpvc/?username=mohammad-moussalli&style=plastic"></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-moussalli)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-moussalli)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
